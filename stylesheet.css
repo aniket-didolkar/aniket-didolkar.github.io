@@ -241,7 +241,7 @@ papertitle {
   font-weight: 600;
   color: var(--primary-color);
   display: block;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.0001rem;
 }
 
 /* Remove experience section styles */
